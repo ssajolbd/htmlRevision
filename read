@@ -1,0 +1,470 @@
+HTML - Hyper Text Markup Language 
+
+
+<!-- #4  -->
+
+<!-- <!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <meta charset="UTF-8">
+        <title>Hello</title>
+    </head>
+    <body>
+        <h1> Hello World </h1>
+    </body>
+</html>  -->
+
+
+<!-- #5  -->
+
+    
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> Munni Badnam huyi darling tere liye  </h1>
+</body>
+</html> -->
+
+
+
+<!-- 6  -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Hello World</h1>
+    <!-- <h2>Hello World</h2>
+    <h3>Hello World</h3>
+    <h4>Hello World</h4>
+    <h5>Hello World</h5>
+    <h6>Hello World</h6> -->
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vitae obcaecati cupiditate consequuntur quis explicabo quidem. Perspiciatis sint dolorum quod maxime debitis. Corporis mollitia consequatur laborum repellendus reprehenderit in quae ducimus!</p>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod amet, inventore numquam blanditiis quis eaque ex aut odit. Officia perferendis nam eos eius, officiis, omnis dignissimos blanditiis commodi atque tenetur minima voluptatum, veniam error veritatis tempora repellendus ad similique eum.</p>
+</body>
+</html>
+
+
+
+<!-- 7  -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2 style="color: rgb(255, 123, 8); text-align:center; font-size: 45px; background-color: black; padding: 20px;">My name is syndicate</h2>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+<!-- 8  -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>Lorem ipsum <b>dolor sit amet,</b> consectetur <i>adipisicing elit</i>. Velit, itaque!</p>
+
+    <em>sajol sarker</em> 
+    <br>
+    <b>Sajol Sarker</b> 
+    <br>
+    <strong>Sajol Sarker</strong> <br>
+    <mark>Sajol Sarker</mark>
+
+    <sup>A</sup>+bsup
+    
+
+</body>
+</html>
+
+
+<!-- 9   -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <blockquote>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod suscipit, consequatur fugit expedita quae voluptate provident eveniet eos maxime minus mollitia itaque esse nulla consectetur molestiae sapiente porro aperiam ullam.</blockquote>
+    <abbr title="Bangladesh">BD</abbr> is a beautiful country.
+
+    <br>
+   <bdo dir="rtl">  My name is sajol.</bdo>
+   <br>
+   <br>
+
+ <q>
+    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio dolorem aliquam, odio iure necessitatibus voluptas ad possimus amet suscipit repellat. Vel laudantium maxime nemo officia aliquam distinctio, esse dolorum perferendis iste. Repellendus molestias ipsum, rem eveniet quis mollitia iusto nemo quas hic ducimus tenetur, harum perferendis expedita totam soluta voluptatibus.
+ </q>
+ <br><br>
+
+ <address>
+    House# 500. Dhaka, Bangladesh 
+ </address>
+    <br><br>
+    <cite>Hello AMit Madari</cite>
+</body>
+</html>
+
+ <!-- 10  -->
+
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+ </head>
+ <body>
+    <a href="https://github.com/" target="_blank">Click Here</a>
+    <br><br>
+
+    <!-- start header section   -->
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, repellat consectetur! Quasi, porro? Corporis eos iure adipisci totam doloremque necessitatibus, quod, quibusdam voluptates non eius a corrupti id eum dolore culpa molestiae itaque. Vero necessitatibus minima provident temporibus omnis molestiae consequatur quidem sequi animi autem commodi, sapiente iusto possimus odit!</p>
+
+    <!-- End header section   -->
+ </body>
+ </html>
+
+
+  <!-- 11  -->
+
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Document</title>
+  </head>
+  <body>
+     <h2 style="color: #ffbc48">My name is Syndicate. </h2>
+     <h2 style="color: rgba(175, 14, 255, 0.6); background-color:black "
+      >My name is Syndicate. </h2>
+  </body>
+  </html>
+
+  <!-- 12  -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+<img src="/pexels-kumar-saurabh-1456613.jpg" width="400px" alt="">
+
+</body> 
+</html>
+
+<!-- 13  -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Age</th>
+        </tr>
+        <tr>
+            <td>Amit</td>
+            <td>Gandu</td>
+            <td>28(bura)</td>
+        </tr>
+        <tr>
+            <td>Shammo</td>
+            <td>Sauai</td>
+            <td>32(bura)</td>
+        </tr>
+        <tr>
+            <td>Lebu</td>
+            <td>Pak Boy</td>
+            <td>22 (kochi)</td>
+        </tr>
+    </table>
+</body>
+</html>
+
+
+<!-- 14  -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <ul style="list-style-type: circle;">
+        <li>Apple</li>
+        <li>Orange</li>
+        <li>Banana</li>
+    </ul>
+
+    <ol type="i">
+        <li>Apple</li>
+        <li>Orange</li>
+        <li>Mango</li>
+    </ol>
+
+    <dl>
+        <dt>Coffee</dt>
+        <dd>Black Hot Drinks</dd>
+        <dt>Brandy</dt>
+        <dd>Halka Lal Drinks</dd>
+    </dl>
+
+</body>
+</html>
+
+
+<!-- 15  -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div style="text-align: center;">
+        Lorem ipsum dolor sit amet consectetur 
+    </div>
+    <br>
+    <h2 style="text-align: center;">Hello World</h2>
+
+
+    <a href="#">Click Here</a>
+</body>
+</html>
+
+
+
+<!-- 16  -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <iframe style="width: 50%; height: 400px;" src="https://ssajolbd.github.io/syndicate.com/" name="iframe_a" frameborder="0"></iframe>
+    <a href="https://tailwindcss.com/" target="iframe_a">Click Here</a>
+
+
+
+    <!-- <iframe style="width: 50%; height: 600px;" src="./read.txt" frameborder="0"></iframe> -->
+</body>
+</html>
+
+<!-- 17  -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+<video controls width="50%" autoplay>
+    <source src="./boshonto 2022 .mp4" type="video/mp4" >
+</video>
+
+</body>
+</html>
+
+
+<!-- 18  -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <audio controls autoplay src="./Tumi Kon.mp3" type="audio/mpeg" ></audio>
+
+    <audio  autoplay src="" type="audio/mpeg" ></audio>
+
+</body>
+</html>
+
+<!-- 19  -->
+ <!-- layout knowlage  -->
+
+ <!-- 20  -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <form action="#" method="post">
+        <fieldset>
+            <legend>
+                Contact US
+            </legend>
+            Email Address
+            <br><br>
+            <input type="text" name="" id="" placeholder="You Email">
+            <br><br>
+            password
+            <br><br>
+            <input type="password" name="" id="" placeholder="Your Password">
+            <br><br>
+            <input type="radio" name="gender">Female <br>
+            <input type="radio" name="gender">Male <br><br>
+            <input type="submit" name="" id="" value="Send">
+        </fieldset>
+    </form>
+</body>
+</html>
+
+ <!-- 21  -->
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+ </head>
+ <body>
+    <!-- multiple  -->
+    <select multiple size="2"  name="" id="">
+        <option value="Cheery Brandy">
+            Cheery Brandy
+        </option>
+        <option value="Fine Brandy">
+            Fine Brandy
+        </option>
+        <option value="Jin" selected>
+            Jin By Keru & Kong
+        </option>
+    </select>
+
+    <textarea name="" id="" cols="30" rows="10" placeholder="Text Your Massage"></textarea>
+
+ </body>
+ </html>
+
+ <!-- 22  -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="#">
+        <h2>Chose Your Browser</h2>
+        <input type="text" list="browsers">
+        <datalist id="browsers">
+        <option value="Internet Explorer">
+        </option>
+        <option value="Mozila Fire Fox">
+
+        </option>
+        <option value="Google Chorom">
+        </option>
+        </datalist>
+    </form>
+</body>
+</html>
+
+
+<!-- 23  -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+<form action="#">
+    <label for="nam">Name</label>
+    <input id="nam" type="text" required>
+    <br><br>
+    <label for="mail">Email</label>
+    <input id="mail" type="Email" required>
+    <br><br>
+    Send Your Files 
+    <input type="file" name="" id="">
+    <br><br>
+    <input type="checkbox"> We r sudirvai
+    <br><br>
+    <input type="reset" name="" id="">
+    <br><br>
+    <input type="submit" value="send" name="" id="">
+  
+
+</body>
+</html>
+
+<!-- 24  -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .name{
+            color: black;
+            text-align: center;
+            background-color: tomato;
+        }
+    </style>
+</head>
+<body>
+    
+    <h2 class="name">My name is syndicate</h2>
+
+</body>
+</html>
